@@ -5,4 +5,4 @@
                                   EXAMINATION_MARKS EM ON SI.ROLL_NUMBER=EM.ROLL_NUMBER
                                                           WHERE (EM.subject_one + EM.subject_two + EM.subject_three )< 100;<pre/>
                                                           
-                                                          <img algn="right" alt="coding durgesh kumar"  align="center" src="https://gifimage.net/wp-content/uploads/2018/06/student-animated-gif.gif">
+                                                          <img algn="right" alt="coding durgesh kumar"  align="left" src="https://gifimage.net/wp-content/uploads/2018/06/student-animated-gif.gif">
